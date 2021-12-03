@@ -1,0 +1,12 @@
+{
+    "name": "kata/mars-rover",
+    "autoload": {
+        "psr-4": {
+            "MarsRover\\": "src/"
+        }
+    },
+    "require-dev": {
+        "behat/behat": "^3.10",
+        "phpspec/phpspec": "^7.1"
+    }
+}
